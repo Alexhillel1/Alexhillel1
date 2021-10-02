@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Sasha
 
-[![Header](https://github.com/Alexhillel1/Alexhillel1/blob/main/assets/how-to-front-end-840.jpg)
+![Header](https://github.com/Alexhillel1/Alexhillel1/blob/main/assets/back.jpg)
 
 ## I'm a Front-End Developer
 
