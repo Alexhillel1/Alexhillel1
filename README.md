@@ -1,14 +1,6 @@
-### Hi there 👋, I'm Alexander
-
-![Header](https://github.com/Alexhillel1/Alexhillel1/blob/main/assets/back2.jpg)
-
-## I'm a Front-End Developer
-
-- 💪 I like to write code
-- 🎉 I love to sport and play computer games
-- 🥅 I am constantly learning new things
-- ⚡ I love creating creative landing pages
-- 🤹🏽 I like to travel
+<div align="center">
+	<img src="https://github.com/sindresorhus/sindresorhus/raw/main/main.gif" alt="Hello. I'm Sindre. I like code. Thanks for reading.">
+</div>
 
 ### Connect with me:
 
