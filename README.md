@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="https://github.com/Alexhillel1/Alexhillel1/blob/523c2a8e370127ddb76ff4fc8efaa37593efbfba/assets/tenor (1).gif" alt="Hello. I'm Sindre. I like code. Thanks for reading.">
+	<img src="https://github.com/Alexhillel1/Alexhillel1/blob/main/assets/tenor%20(1).gif" alt="Hello. I'm Druk Alexander. I like code. Thanks for reading.">
 </div>
 
 
