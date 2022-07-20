@@ -1,4 +1,7 @@
-<div class="tenor-gif-embed" data-postid="21749595" data-share-method="host" data-aspect-ratio="1.06667" data-width="100%"><a href="https://tenor.com/view/when-the-coding-when-the-coding-when-the-coding-is-when-the-meme-gif-21749595">When The Coding Coding GIF</a>from <a href="https://tenor.com/search/when+the+coding-gifs">When The Coding GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div align="center">
+	<img src="https://github.com/Alexhillel1/Alexhillel1/blob/523c2a8e370127ddb76ff4fc8efaa37593efbfba/assets/tenor.gif" alt="Hello. I'm Sindre. I like code. Thanks for reading.">
+</div>
+
 
 ### Connect with me:
 
