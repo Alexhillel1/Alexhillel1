@@ -6,7 +6,6 @@
 ### Connect with me:
 
 [<img align="left" alt="AleksandrDruk | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="AleksandrDruk | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="AleksandrDruk | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
 <br />
@@ -34,6 +33,5 @@
     <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Alexhillel1&show_icons=true" />
 </details>
 
-[telegram]: https://t.me/ADwebdevv
+[telegram]: https://t.me/AleksandrDruk
 [linkedin]: https://www.linkedin.com/in/alexander-druk/
-[instagram]: https://www.instagram.com/druk.alexander/
